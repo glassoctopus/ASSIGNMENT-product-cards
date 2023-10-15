@@ -1,3 +1,19 @@
 body {
   background-color: black;
 }
+
+.floatCards{
+  float: left;
+}
+
+.debug{
+  border: 2px solid white;
+  padding: 5px;
+  margin: 5px;
+}
+
+.price{
+  margin: 0px;
+  padding: 0px;
+  border: 0px;
+}
